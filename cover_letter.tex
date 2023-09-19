@@ -1,0 +1,86 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[12pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{classic}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+                        % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+
+\usepackage{ragged2e}
+%\usepackage[colorlinks,allcolors=blue]{hyperref}
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Mohammad}{Ghavidel}
+%\title{Motivation Letter}                               % optional, remove / comment the line if not wanted
+\address{~}{Montreal}{Qc}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+1~(438)~922~4011}                   % optional, remove / comment the line if not wanted
+%\phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{mohamad.ghavidel92@gmail.com}                               % optional, remove / comment the line if not wanted
+\homepage{https://github.com/Slmaking}                                % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%-----       letter       ---------------------------------------------------------
+% recipient data
+\recipient{Cover Letter}{Spécialiste Données
+}
+\date{\today}
+\opening{Re: Dear [company] Company Hiring Manager,}
+\closing{}
+   % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+
+\makelettertitle
+
+\justifying{
+
+
+I am writing to express my enthusiastic interest in the Data Analyst position with [company], as detailed in the job description. With a proven track record in data analysis, business reporting, and a keen eye for detail, I am excited about the opportunity to join your North America Vehicle Distribution team and contribute to [company]’s ongoing success and innovation.
+My master’s degree in transportation and traffic safety from the University of Montreal, paired with my proficiency in developing and implementing machine learning models, and data visualisation with power BI and PowerPoint’s in Bi-weekly meeting to share my progress to team of Data Scientist. Some of these reports are available at my Github account. 
+
+My educational background, coupled with my professional experience, positions me well to thrive in the dynamic environment. I am well-versed in the Python Data analysis, and possess strong knowledge of data manipulation and Statistics, Data Visualization. Furthermore, my proficiency in SQL and NoSQL databases, as well as my familiarity with MySql and AZure. With two years of French courses at MIFI, I see an exciting opportunity to put my language skills into practice. \href{https://slmaking.github.io/}{git}
+
+I am excited about the chance to bring my analytical skills, data expertise, and collaborative mindset to the [company] team. I am enthusiastic about the prospect of contributing to [company]’s ongoing success and excellence in data analysis and reporting. Thank you for considering my application. I eagerly anticipate the opportunity to discuss how my qualifications align with the needs of the role in further detail. I would like to Be Part of the Adventure.
+Thank you for considering my application. I look forward to the opportunity to discuss in further detail how my experience and skills can benefit [company]’s mission.
+Best Regards,
+
+
+\sffamily
+
+\begin{tabular}{@{}l@{}}
+\\[3 mm]
+\color{black}
+\fontfamily{qzc}\selectfont
+\large
+\color{blue}
+Mohammad Ghavidel
+\end{tabular}
+
+\end{document}
+
+
