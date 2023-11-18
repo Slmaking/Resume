@@ -4,52 +4,64 @@ I have download my resume from overleaf template and then applied some modificat
 
 # sample view
 
-MOHAMMAD GHAVIDEL
-DATA SCIENTIST	Montreal, Qc | LinkedIn
-438-922-4011 | mghavi71@gmail.com
-Website
+# Mohammad Ghavidel - Data Scientist
 
- SUMMARY:
-As a data scientist, I possess a strong background in statistical analysis and machine learning, demonstrating proficiency in python libraries like TensorFlow, Keras, and skit-learn. My expertise extends to leveraging big data technologies and cloud computing platforms like Snowflake with past projects spanning diverse industries, including transportation, traffic safety, urban planning, insurance, and telematics data.
-EXPERIENCE: 
-Data Scientist Intern 
- Intact	Montreal, Canada	2022 – present
-•	Utilizing smartphone sensors to detect and analyze traffic events via supervised and semi-supervised methods. 
-•	Collaborating with DataLab to develop data-driven models, presenting progress in weekly meetings. 
-•	Developing a repository for reorientation of smartphones with validation method. 
-•	Crafting a time series Convolutional Neural Network for crash event detection, (Gramian Angular Fields technique), led to a remarkable 12% improvement in AUC/ROC performance. 
-•	Creating a data processing pipeline to clean and analyze 10+ thousands of response text data using  LDA and CNN BiLSTM model. 
-Artificial Intelligence Researcher   Mana Rayka	Tehran, Iran	.    2020 –2021
-•	Analyzed geospatial data with MATLAB and R, performing data cleaning, outlier identification, and interpolation. 
-•	Constructed traffic congestion forecasting models utilizing ARIMA and Random Effect Time Series techniques, resulting in a notable 35% reduction in the loss function. 
-•	Collaborated with the urban planning team to integrate AI-driven traffic pattern predictions into the city’s master plan, proposing two new efficient transit routes and a 20% decrease in peak-hour congestion. 
-AWARDS AND VOLUNTEER JOBS 
-Academic Scholarship, HEC Montreal
-KTH Royal Institute of Technology Conference, Presenter/ Co-Author.
-Member of the organizing team of the WCTR conference in Montreal.
-Teaching assistance of econometrics and statistics at the University of Tehran.
-Winning the best teaching and research assistant award at the University of Tehran.
-Certification 
-Data visualization, Google
-Natural Language Models (NLP), DeepLearningAI
-Neural Networks and Deep Learning, DeepLearningAI
-Applied machine learning and Data Science with Python, University of Michigan 
-Data Science Math Skill, Duke University
-Machine Learning, Stanford University 
- EDUCATION 
-Master of Science-Transportation Engineering       3.5/4.0                                                                           Dec-2023
-Polyethnic Montréal- University of Montreal  
-Exchange Program – Computer Science.                  4.0/4.0      	  Nov-2023
-McGill University	
-Master’s degree-Traffic and Highway Engineering (A)                                                                                Sep-2019                      
-University of Tehran   
-Bachelor’s degree-Civil Engineering                                                                                                               Sep-2016	
-Ferdowsi University of Mashhad
-TECHNICAL SKILLS 
-•	Programming: Python, R, SQL (Postgras), HTML5 
-•	Data Visualization Tools: Tableau, Microsoft Power BI
-•	Software: ArcGIS, SAS, Google analytics
-•	Cloud computing: Azure, AWS	LANGUAGES:
-English, French  (intermediate)
+## Contact Information
+- Location: Montreal, QC
+- Email: mghavi71@gmail.com
+- [LinkedIn Profile](#)
+- [Personal Website](#)
 
-![image](https://github.com/Slmaking/Resume/assets/58626257/97e05391-b405-4ec5-a54c-57730b010a52)
+## Summary
+As a data scientist, I have a strong background in statistical analysis and machine learning, with proficiency in Python libraries like TensorFlow, Keras, and scikit-learn. My expertise extends to leveraging big data technologies and cloud computing platforms, having worked on diverse projects across various industries.
+
+## Experience
+
+### Data Scientist Intern - Intact
+*Montreal, Canada (2022 - Present)*
+- Utilized smartphone sensors to detect and analyze traffic events.
+- Developed data-driven models and a repository for smartphone reorientation.
+- Improved AUC/ROC performance by 12% with a Convolutional Neural Network.
+
+### Artificial Intelligence Researcher - Mana Rayka
+*Tehran, Iran (2020 - 2021)*
+- Analyzed geospatial data and constructed traffic congestion forecasting models.
+- Contributed to urban planning with AI-driven traffic pattern predictions.
+
+## Awards and Volunteer Jobs
+- Academic Scholarship, HEC Montreal
+- Presenter/ Co-Author at KTH Royal Institute of Technology Conference
+- Organizing team member for the WCTR conference in Montreal
+- Teaching Assistant at the University of Tehran
+
+## Certifications
+- Data Visualization, Google
+- Natural Language Models (NLP), DeepLearning.AI
+- Neural Networks and Deep Learning, DeepLearning.AI
+- Applied Machine Learning and Data Science with Python, University of Michigan
+
+## Education
+
+### Master of Science - Transportation Engineering
+*Polytechnique Montréal - University of Montreal (Expected Dec 2023)*
+GPA: 3.5/4.0
+
+### Exchange Program – Computer Science
+*McGill University (Expected Nov 2023)*
+GPA: 4.0/4.0
+
+### Master's Degree - Traffic and Highway Engineering
+*University of Tehran (Sep 2019)*
+
+### Bachelor's Degree - Civil Engineering
+*Ferdowsi University of Mashhad (Sep 2016)*
+
+## Technical Skills
+- **Programming:** Python, R, SQL (PostgreSQL), HTML5
+- **Data Visualization Tools:** Tableau, Microsoft Power BI
+- **Software:** ArcGIS, SAS, Google Analytics
+- **Cloud Computing:** Azure, AWS
+
+## Languages
+- English (Fluent)
+- French (Intermediate)
